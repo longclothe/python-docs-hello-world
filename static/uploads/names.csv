@@ -1,20 +1,20 @@
-Name,Grade,Room,State,Picture,Keywords
-Alice,42,550,TX,a.jpg,Al works hard
-Hellen,98,420,LA,h.jpg,Hellen is lazy
-Bob,99,,TX, ,Bob is lazy
-Dave,38,525,NN,,Who is this
-Carol, ,-1,CA, ,Who is Carol
-Eve,88,550,CA,e.jpg,Eve is eve is
-Zeke,80,520,,,Zeke
-Zeb,97,,TX,z.jpg,
-Tina,,,,,
-Meena,99,400,TX,,Meena Meena
-Dish,89,400,LA,,
-Tong,95,420,TX,t.jpg,Tong not Tang
-Mohit,95,302,NN,,
-Steve,36,900,,s.jpg,
-Li,89,905,CA,,
-Mike,89,,TX,,
-Tang,99,808,,t.jpg,Tang great Tang
-Billy,42,50,CA,,
-Blue,100,,NN,,Blue blue blue blue
+Room,Name,State,Picture,Caption
+1.0,Khushboo,CA,e.jpg,Khushboo is rich for now
+50.0,Billy,CA,,
+302.0,Mohit,NN,,
+400.0,Marnim,TX,,Marnim is smart and rich
+400.0,Dish,LA,,
+400,Farnaz,LA,h.jpg,Farnaz is very rich
+420.0,Tong,TX,t.jpg,Tong not Tang
+520.0,Zeke,,,Zeke is not here
+525.0,Dave,NN,,No one important
+550.0,Alice,TX,a.jpg,Alice is still Alice not Aliz
+550.0,Eve,CA,e.jpg,Eve is eve is
+808.0,Tang,,t.jpg,Tang great Tang
+900.0,Steve,,s.jpg,
+905.0,Lu,CA,,Lu is a different Lu a smarter Lu
+,Bob,TX,b.jpg,Bob who is Bob
+-42.0,Jason,TX, ,
+,Tina,,r.jpg,
+,Mike,TX,,
+,Blue,NN,l.jpg,Blue blue blue blue
